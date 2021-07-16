@@ -113,6 +113,7 @@ function renderLicenseSection(data) {
 
   You should have received a copy of the GNU General Public License
   along with this program.  If not, see <[gnu license](http://www.gnu.org/licenses/)>.
+  
   \`\`\`
   </details>
   `;
@@ -128,6 +129,9 @@ function generateMarkdown(data) {
   return `# ${data.projectTitle}
 
   ${renderLicenseBadge(data.license)}
+
+  ## Description
+  ${data.projectDescription}
 
   ## Table of Contents
   * [Installation](#installation)
