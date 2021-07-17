@@ -1,9 +1,9 @@
-# Unit 09 HW: readme-generator
+# Title goes here.
 
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
   ## Description
-  As a developer who uses GitHub, it is extremely important to generate a high-quality README to assist users to understand what the project is for, how to install and use the app, how to report issues, and how to contribute to the project. However, it becomes very tedious to generate README file all from scratch every time when you create a project. So, this project allows to generate a README file in high-quality format and based on developer's input.
+  Description goes here.
 
   ## Table of Contents
   * [Installation](#installation)
@@ -14,14 +14,11 @@
   * [Questions](#questions)
  
   ## Installation
-  Fork this repo into your GitHub. Make sure the fork process has been completed without any issue by checking all files in your forked repo. Verify whether you have node.js installed on your desktop or not by running the command <mark>node -v</mark> in your terminal. If you do not have node.js installed, please go to [https://coding-boot-camp.github.io/full-stack/nodejs/how-to-install-nodejs](https://coding-boot-camp.github.io/full-stack/nodejs/how-to-install-nodejs) and it will walk you through the process.
+  Installation instruction goes here.
 
   ## Usage
-  Once you completed the installation process, now it’s time for you to use this app to generate README file. Once you try to run <mark>node index.js</mark>, it will probably give you an error BECAUSE the required dependencies are not installed yet into the root directory. Run <mark>npm install</mark> to install required dependancies. Then, you should be able to run <mark>node index.js</mark>. You will be prompted with questions to be added in README and the demo will be shown in below:
+  Usage information goes here.
 
-  ![screenshot of terminal](./Assets/images/terminal-screenshot.png)
-
-  
   
   ## License
   This project is covered under MIT License.
@@ -43,10 +40,10 @@
   
 
   ## Contributing
-  No contribution will be accepted at this moment.
+  Contribution guideline goes here.
 
   ## Tests
-  There are no tests for this project at this moment.
+  Test instruction goes here.
 
   ## Questions
   If you have any questions, please contact me via

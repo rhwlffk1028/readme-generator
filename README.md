@@ -21,7 +21,7 @@
 
   ![screenshot of terminal](./Assets/images/terminal-screenshot.png)
 
-  
+  [Demonstration Video Link](https://www.youtube.com/watch?v=O_GRR9YXZbo&ab_channel=KevinChoi)
   
   ## License
   This project is covered under MIT License.
